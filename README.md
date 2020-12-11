@@ -21,7 +21,9 @@ Para 25000 km/h:
 
 ![Entrega 2](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%202/orbitas25000.png)
 ![Entrega 2](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%202/orbitaszoom25000.png)
+
 Para 25500 km/h:
+
 ![Entrega 2](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%202/orbitas25500.png)
 ![Entrega 2](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%202/orbitaszoom25500.png)
 
