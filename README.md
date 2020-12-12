@@ -40,5 +40,9 @@ Además se adjunta los graficos x(t), y(t), z(t) para dos orbitas completas.
 En esta entrega hice dos archivos, prediccion_edm_basica.py y prediccion_edm_basica.1.py, esto debido a que inicialmente me dio valores muy altos de diferencia entre la posicion predicha y la real. 
 El primero lo hice utilizando como base el archivo de la entrega 2, y el segundo lo hice utilizando lo mostrado por el ayudante. Los resultados obtenidos son de 52258192.43006318 metros para el archivo principal (prediccion_edm_basica.py) y de 1217117708.7218955 metros para el archivo con base en la ayudantia (prediccion_edm_basica.1.py).
 
+# Entrega 4
+
+![Entrega 4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%204/Entrega4.png)
+
 
 
