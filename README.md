@@ -42,6 +42,8 @@ El primero lo hice utilizando como base el archivo de la entrega 2, y el segundo
 
 # Entrega 4
 
+En el grafico se puede ver que la funcion odeint es una buena aproximacion de la real, ya que esta tiene divisiones automaticamente por la forma como esta construida. En cambio, la función eulerint de pende de la cantidad de particiones o subdivisiones que se hagan para tener una mejor aproximación. Se observa en el grafico que a mayor cantidad de subdivisiones, eo resultado es ams cercano a la funcion real. Con un t = np.linspace(0, 4., 100), se va a tener un odeint de 100 particiones y por lo tanto con un eulerint de 100 subdivisiones se alcanza un resultado suficientemente cercano al real.
+
 ![Entrega 4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%204/Entrega4.png)
 
 
