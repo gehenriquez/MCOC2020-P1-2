@@ -29,7 +29,7 @@ def satelite(z, t):
     r2 = np.dot(z1, z1)
     r = np.sqrt(r2)
 
-    Fg = (-G*Mt/r**2) * -(R@(z1/r))
+    Fg = (-G*Mt/r**2) * (R@(z1/r))
 
     zp[0:3] = z2
     zp[3:6] = R.T@(Fg - (2*(Rp@z2) + (Rpp@z1)))
