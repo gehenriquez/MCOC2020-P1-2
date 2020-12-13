@@ -46,5 +46,15 @@ En el grafico se puede ver que la funcion odeint es una buena aproximacion de la
 
 ![Entrega 4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%204/Entrega4.png)
 
+# Entrega 5
+
+La solucion de eulerint demora 0.4129541999999997 segundos
+La solucion de odeint demora 0.14667249999999932 segundos
+La solucion de odeint difiere en 19678.69  KM de la solucion eulerint al final del tiempo
+La solucion de eulerint_J2_J3 demora 0.613205899999997 segundos
+La solucion de odeint_J2_J3 demora 0.06577210000000377 segundos
+La solucion de odeint_J2_J3 difiere en 1161405342508.27  KM de la solucion eulerint al final del tiempo
+La Parte 4 demora 44.008612600000006 segundos en correr
+Todo el archivo demora 96.2102592 segundos en correr (sin la parte 3)
 
 
