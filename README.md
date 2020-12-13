@@ -53,13 +53,49 @@ En el grafico se puede ver que la funcion odeint es una buena aproximacion de la
 
 # Entrega 5
 
-La solucion de eulerint demora 0.4129541999999997 segundos
-La solucion de odeint demora 0.14667249999999932 segundos
-La solucion de odeint difiere en 19678.69  KM de la solucion eulerint al final del tiempo
-La solucion de eulerint_J2_J3 demora 0.613205899999997 segundos
-La solucion de odeint_J2_J3 demora 0.06577210000000377 segundos
-La solucion de odeint_J2_J3 difiere en 1161405342508.27  KM de la solucion eulerint al final del tiempo
-La Parte 4 demora 44.008612600000006 segundos en correr
-Todo el archivo demora 96.2102592 segundos en correr (sin la parte 3)
+*---Pregunta 1---*
 
+![Entrega 5-P1](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P1-grafico_posici%C3%B3n(x%2Cy%2Cz)-RealvsOdeint.png)
+
+![Entrega 5-P1](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P1-grafico_posici%C3%B3n(x%2Cy%2Cz)-Real.png)
+
+*---Pregunta 2---*
+
+![Entrega 5-P2](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P2-EulerintvsOdeint.png)
+
+![Entrega 5-P2](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P2-RealvsEulerint.png)
+
+![Entrega 5-P2](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P2-RealvsOdeint.png)
+
+La solucion de odeint difiere en 19678.69  KM de la solucion eulerint al final del tiempo.
+La solucion de eulerint demora 0.32441759999999986 segundos.
+La solucion de odeint demora 0.12190780000000001 segundos.
+
+*---Pregunta 3---*
+
+
+
+*---Pregunta 4---*
+
+![Entrega 5-P4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P4-grafico_posici%C3%B3n(x%2Cy%2Cz)-Real.png)
+
+![Entrega 5-P4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P4-grafico_posici%C3%B3n(x%2Cy%2Cz)-RealvsOdeint_J2_J3.png)
+
+La solucion de eulerint_J2_J3 demora 0.5437194000000005 segundos.
+La solucion de odeint_J2_J3 demora 0.04997380000000007 segundos.
+
+![Entrega 5-P4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P4-EulerintvsOdeint_J2_J3.png)
+
+La solucion de odeint_J2_J3 difiere en 1161405342508.27  KM de la solucion eulerint al final del tiempo.
+
+![Entrega 5-P4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P4-RealvsEulerint_J2_J3.png)
+
+La solucion de eulerint_J2_J3 difiere en 1166217864683.7  KM de la solucion real al final del tiempo.
+
+![Entrega 5-P4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P4-RealvsOdeint_J2_J3.png)
+
+La solucion de odeint_J2_J3 difiere en 4812522175.43  KM de la solucion real al final del tiempo.
+
+La Parte 4 demora 6.6263779 segundos en correr.
+Todo el archivo demora 12.951221199999999 segundos en correr (sin la parte 3).
 
