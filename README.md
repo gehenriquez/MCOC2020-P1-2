@@ -38,7 +38,12 @@ Además se adjunta los graficos x(t), y(t), z(t) para dos orbitas completas.
 # Entrega 3
 
 En esta entrega hice dos archivos, prediccion_edm_basica.py y prediccion_edm_basica.1.py, esto debido a que inicialmente me dio valores muy altos de diferencia entre la posicion predicha y la real. 
-El primero lo hice utilizando como base el archivo de la entrega 2, y el segundo lo hice utilizando lo mostrado por el ayudante. Los resultados obtenidos son de 52258192.43006318 metros para el archivo principal (prediccion_edm_basica.py) y de 1217117708.7218955 metros para el archivo con base en la ayudantia (prediccion_edm_basica.1.py).
+El primero lo hice utilizando como base el archivo de la entrega 2, y el segundo lo hice utilizando lo mostrado por el ayudante. Los resultados obtenidos son de 52258192.43006318 metros para el archivo principal (prediccion_edm_basica.py) y de 1217117708.7218955 metros para el archivo con base en la ayudantia (prediccion_edm_basica.1.py). 
+
+** Actualizacion 
+Despues de corregir errores de unidades en prediccion_edm_basica.py, se obtiene una diferencia de 6754672.510444213 metros. 
+Por otro lado, al archivo prediccion_edm_basica.1.py se le arreglaron problemas en la funcion satelite(), entregando asi un resultado de 8596842.855333513 metros.
+**
 
 # Entrega 4
 
