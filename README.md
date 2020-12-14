@@ -99,3 +99,16 @@ La solucion de odeint_J2_J3 difiere en 4812522175.43  KM de la solucion real al 
 La Parte 4 demora 6.6263779 segundos en correr.
 Todo el archivo demora 12.951221199999999 segundos en correr (sin la parte 3).
 
+**
+Corregi unos archivos y les agregue un comentario pensando que se agregaria aca, epro no se donde quedo. 
+
+En la entrega 5, al hacer la parte 4 me dan resultados mas alejados usando J2 y J3 que sin usarlos. Es obvio que tengo un error ahi que no he logrado encontrar, pero probando varios cambios me di cuenta que algo hay con las unidades.
+
+```
+J2 = 1.75553e10  # * (1000 ** 5)  # km5⋅s−2
+J3 = -2.61913e11  # * (1000 ** 6)  # km6⋅s−2
+```
+Una de las cosas que me di cuenta es que al dejar el cambio de unidades de J2 y J3 como comentario se arreglaba considerablemente los resultados, pero eso no es consistente segun lo que he ido programando.
+El cambio lo hice porque al observar mi primer grafico vi claramente que algun problema hay con las dimensiones, los resultados reales son mucho menores que los predichos. El primer grafico que me entrego el programa (antes de hacer los cambios) se veia asi:
+![Entrega 5-P4](https://github.com/gehenriquez/MCOC2020-P1-2/blob/main/Entrega%205/P4-e5-sincambiodeunidades.png)
+
